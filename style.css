@@ -268,7 +268,7 @@ header  #cart span{
     display: grid;
     grid-template-rows: 70px 1fr 70px;
 }
-body. showcart .cartTab{
+body.showcart .cartTab{
     /*this is the same as top , rigth bottom*/
     inset: 0 0 0 auto;
 }
